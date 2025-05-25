@@ -1,16 +1,29 @@
-## Hi there 👋
+## Sobre Mim
 
-<!--
-**Junior010101/Junior010101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou estudante apaixonado por tecnologia e desenvolvimento de sistemas, especialmente começando projetos do zero. Tenho experiência e interesse em várias linguagens e ferramentas, incluindo:
 
-Here are some ideas to get you started:
+- **Javascript/Typescript (Node)**
+- **Python**
+- **C# (dotnet)**
+- **CSS (Tailwind CSS, SCSS)**
+- **HTML5**
+- **ReactJs**
+- **React Native (Expo)**
+- **MySQL/MariaDB**
+- **FIGMA**
+- **LucidChart**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projetos
+
+Alguns dos meus projetos incluem:
+- **InfoSports_Trabalho**
+- **Best_Sabor**
+- **Magnificent-VolleyBall**
+
+### Interesses
+
+Gosto muito de jogos e de desenvolver sistemas do zero. Também curto assistir reacts engraçados no YouTube ou Twitch. Apesar de não passar muito tempo em redes sociais, costumo usar algumas quando necessário.
+
+### Contato
+
+Ainda não tenho redes sociais profissionais, mas meu LinkedIn está em desenvolvimento.
