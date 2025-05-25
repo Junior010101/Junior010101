@@ -13,13 +13,6 @@ Olá! Sou estudante apaixonado por tecnologia e desenvolvimento de sistemas, esp
 - **FIGMA**
 - **LucidChart**
 
-### Projetos
-
-Alguns dos meus projetos incluem:
-- **InfoSports_Trabalho**
-- **Best_Sabor**
-- **Magnificent-VolleyBall**
-
 ### Interesses
 
 Gosto muito de jogos e de desenvolver sistemas do zero. Também curto assistir reacts engraçados no YouTube ou Twitch. Apesar de não passar muito tempo em redes sociais, costumo usar algumas quando necessário.
