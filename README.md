@@ -2,11 +2,14 @@
 
 Olá! Sou estudante apaixonado por tecnologia e desenvolvimento de sistemas, especialmente em começar projetos do zero. Tenho experiência e interesse em várias linguagens e ferramentas:
 
-<picture>
-  <source srcset="dark-image.png" media="(prefers-color-scheme: dark)">
-  <source srcset="light-image.png" media="(prefers-color-scheme: light)">
-  <img src="light-image.png" alt="Projeto em execução">
-</picture>
+### 📊 Status
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Junior010101&show_icons=true&theme=dracula" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior010101&layout=compact&theme=dracula" height="170"/>
+</div>
+
+---
 
 ### 🚀 Tecnologias que uso
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -16,15 +19,6 @@ Olá! Sou estudante apaixonado por tecnologia e desenvolvimento de sistemas, esp
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-### 📊 GitHub Status
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Junior010101&show_icons=true&theme=dracula" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior010101&layout=compact&theme=dracula" height="170"/>
-</div>
 
 ---
 
