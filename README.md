@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1+Sou+Junior010101;Seja+Bem-Vindo(a)+ao+meu+perfil+do+GitHub&weight=800&size=24&pause=1000&center=true&vCenter=true&width=835" />
+  <picture>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1+Sou+Junior010101;Seja+Bem-Vindo(a)+ao+meu+perfil+do+GitHub&weight=800&size=32&pause=1000&center=true&vCenter=true&width=835&color=E43D82" />
+  </picture>
 </p>
 
 ## 🌟 Sobre Mim
@@ -9,27 +11,31 @@ Olá! Sou estudante apaixonado por tecnologia e desenvolvimento de sistemas, esp
 ### 📊 Meu Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Junior010101&show_icons=true&theme=dracula" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior010101&layout=compact&theme=dracula" height="170"/>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=Junior010101&show_icons=true&theme=dracula" height="200" />
+  </picture>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior010101&layout=compact&theme=dracula" height="200" />
+  </picture>
 </div>
 
 ## 🚀 Tecnologias que uso
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+| HTML | CSS/Tailwind CSS | SCSS | JavaScript | TypeScript | Python | C# | MySQL/MariaDB | FIGMA |
+|:----:|:----------------:|:----:|:----------:|:----------:|:------:|:--:|:-------------:|:-----:|
+| <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></picture> | <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></picture> <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /></picture> | <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" /></picture>  <picture><img height="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" /></picture> |
+
+| React | TailwindCSS | MySQL |
+|:-----:|:-----------:|:-----:|
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
 
 ---
 
 ## 🎮 Interesses
 
-- 💻 Desenvolvimento de sistemas do zero
-- 🎮 Criar e jogar games
-- 😂 Ver reacts engraçados no YouTube/Twitch
+- 💻 Desenvolvimento de sistemas do zero  
+- 🎮 Criar e jogar games  
+- 😂 Ver reacts engraçados no YouTube/Twitch  
 - 🧠 Aprender e explorar novas tecnologias
 
 ---
