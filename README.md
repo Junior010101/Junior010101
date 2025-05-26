@@ -6,7 +6,7 @@
 
 ## 🌟 Sobre Mim
 
-Olá! Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas, especialmente em começar projetos do zero. Tenho experiência e interesse em várias linguagens e ferramentas.
+Olá! Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas, especialmente em começar novos projetos do zero. Tenho experiência e interesse em várias linguagens e ferramentas.
 
 ### 📊 Meu Status
 
