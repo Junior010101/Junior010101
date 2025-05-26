@@ -6,7 +6,7 @@
 
 ## 🌟 Sobre Mim
 
-Olá! Sou estudante apaixonado por tecnologia e desenvolvimento de sistemas, especialmente em começar projetos do zero. Tenho experiência e interesse em várias linguagens e ferramentas.
+Olá! Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas, especialmente em começar projetos do zero. Tenho experiência e interesse em várias linguagens e ferramentas.
 
 ### 📊 Meu Status
 
@@ -21,14 +21,19 @@ Olá! Sou estudante apaixonado por tecnologia e desenvolvimento de sistemas, esp
 
 ## 🚀 Tecnologias que uso
 
-| HTML | CSS/Tailwind CSS | SCSS | JavaScript | TypeScript | Python |  C#  | 
-|:----:|:----------------:|:----:|:----------:|:----------:|:------:|:----:|
-| <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></picture> | <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></picture> <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /></picture> |
+| HTML | CSS/Tailwind CSS | SCSS | JavaScript (Node) | TypeScript | Python |  C#  | 
+|:----:|:----------------:|:----:|:-----------------:|:----------:|:------:|:----:|
+| <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></picture> | <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></picture> <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" /></picture> | <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></picture> <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /></picture> |
 
 
-| MySQL/MariaDB | FIGMA |
-|:-------------:|:-----:|
-| <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" /></picture>  <picture><img height="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" /></picture> |
+| MySQL/MariaDB | FIGMA | ReactJs |
+|:-------------:|:-----:|:-------:|
+| <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" /></picture>  <picture><img height="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" /></picture> |
+
+## 🖊️📖✏️📚 Tecnologias que ainda estou aprendendo
+| PHP | React Native (Expo) |
+|:---:|:-------------------:|
+| <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /></picture> <picture><img height="75" src="https://github.com/user-attachments/assets/68cffd9e-c278-4d20-b940-4a64026d9884" /></picture> |
 
 ---
 
