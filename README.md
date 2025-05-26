@@ -21,9 +21,11 @@ Olá! Sou estudante apaixonado por tecnologia e desenvolvimento de sistemas, esp
 
 ## 🚀 Tecnologias que uso
 
-| HTML | CSS/Tailwind CSS | SCSS | JavaScript | TypeScript | Python | C# | 
-|:----:|:----------------:|:----:|:----------:|:----------:|:------:|:--:|
-| <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></picture> | <picture><img height="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></picture> <picture><img height="70" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /></picture> |
+<div align="center">
+  | HTML | CSS/Tailwind CSS | SCSS | JavaScript | TypeScript | Python | C# | 
+  |:----:|:----------------:|:----:|:----------:|:----------:|:------:|:--:|
+  | <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></picture> | <picture><img height="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></picture> <picture><img height="70" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /></picture> |
+</div>
 
 | MySQL/MariaDB | FIGMA |
 |:-------------:|:-----:|
