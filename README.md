@@ -21,13 +21,13 @@ Olá! Sou estudante apaixonado por tecnologia e desenvolvimento de sistemas, esp
 
 ## 🚀 Tecnologias que uso
 
-| HTML | CSS/Tailwind CSS | SCSS | JavaScript | TypeScript | Python | C# | MySQL/MariaDB | FIGMA |
-|:----:|:----------------:|:----:|:----------:|:----------:|:------:|:--:|:-------------:|:-----:|
-| <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></picture> | <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></picture> <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /></picture> | <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" /></picture>  <picture><img height="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" /></picture> |
+| HTML | CSS/Tailwind CSS | SCSS | JavaScript | TypeScript | Python | C# | 
+|:----:|:----------------:|:----:|:----------:|:----------:|:------:|:--:|
+| <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></picture> | <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></picture> <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /></picture> |
 
-| React | TailwindCSS | MySQL |
-|:-----:|:-----------:|:-----:|
-| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
+| MySQL/MariaDB | FIGMA |
+|:-------------:|:-----:|
+| <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" /></picture>  <picture><img height="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" /></picture> |
 
 ---
 
