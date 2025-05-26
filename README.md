@@ -34,7 +34,7 @@ Olá! Sou estudante apaixonado por tecnologia e desenvolvimento de sistemas, esp
 
 ## 🎮 Interesses
 
-- 💻 Desenvolvimento de sistemas do zero  
+- 💻 Desenvolvimento de sistemas 
 - 🎮 Criar e jogar games  
 - 😂 Ver reacts engraçados no YouTube/Twitch  
 - 🧠 Aprender e explorar novas tecnologias
