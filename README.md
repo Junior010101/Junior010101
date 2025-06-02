@@ -33,7 +33,7 @@ Olá! Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas, 
 ## 🖊️📖✏️📚 Tecnologias que ainda estou aprendendo
 | PHP | React Native (Expo) |
 |:---:|:-------------------:|
-| <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" /></picture> | <picture><img height="90" src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" /></picture> <picture><img height="90" src="https://github.com/user-attachments/assets/68cffd9e-c278-4d20-b940-4a64026d9884" /></picture> |
+| <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" /></picture> | <picture><img height="90" src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" /></picture> <picture><img height="70" align='top' src="https://github.com/user-attachments/assets/68cffd9e-c278-4d20-b940-4a64026d9884" /></picture> |
 
 ---
 
