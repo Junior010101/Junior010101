@@ -48,4 +48,6 @@ Olá! Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas, 
 
 ## 📫 Contato
 
-> Ainda não tenho redes sociais profissionais, mas meu LinkedIn está em desenvolvimento. Em breve aqui! 🚧
+> LinkedIn: www.linkedin.com/in/marcondes-paixão-9a2238379.
+
+> Email: marcondesjunior2209@gmail.com.
