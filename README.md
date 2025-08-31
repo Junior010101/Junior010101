@@ -21,19 +21,19 @@ Olá! Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas, 
 
 ## 🚀 Tecnologias que uso
 
-| HTML | CSS/Tailwind CSS | SCSS | JavaScript (Node) | TypeScript | Python |
-|:----:|:----------------:|:----:|:-----------------:|:----------:|:------:|
-| <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></picture> | <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></picture> <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" /></picture> | <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></picture> <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></picture>
+| HTML | CSS/Tailwind CSS/Bootstrap | SCSS | JavaScript (Node) | TypeScript |
+|:----:|:--------------------------:|:----:|:-----------------:|:----------:|
+| <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></picture> | <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></picture> <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" /></picture> <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" /></picture> | <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" /></picture> <picture><img height="75" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" /></picture> | <picture><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" /></picture> |
 
 
-| C# | MySQL/MariaDB | FIGMA | ReactJs |
-|:--:|:-------------:|:-----:|:-------:|
-| <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /></picture> | <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" /></picture>  <picture><img height="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" /></picture> |
+| Python | C# | MySQL/MariaDB | FIGMA | ReactJs | PHP |
+|:------:|:--:|:-------------:|:-----:|:-------:|:---:|
+| <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></picture> | <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /></picture> | <picture><img height="80" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" /></picture>  <picture><img height="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" /></picture> |
 
 ## 🖊️📖✏️📚 Tecnologias que ainda estou aprendendo
-| PHP | React Native (Expo) |
-|:---:|:-------------------:|
-| <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" /></picture> | <picture><img height="90" src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" /></picture> <picture><img height="70" align='top' src="https://github.com/user-attachments/assets/68cffd9e-c278-4d20-b940-4a64026d9884" /></picture> |
+| React Native (Expo) | Angular |
+|:-------------------:|:-------:|
+| <picture><img height="90" src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" /></picture> <picture><img height="70" align='top' src="https://github.com/user-attachments/assets/68cffd9e-c278-4d20-b940-4a64026d9884" /></picture> | <picture><img height="90" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"/></picture> |
 
 ---
 
