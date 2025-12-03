@@ -12,10 +12,10 @@ Olá! Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas, 
 
 <div align="center">
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=Junior010101&show_icons=true&theme=dracula" height="190" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=junior010101&theme=dracula" height="190"/>
   </picture>
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior010101&layout=compact&theme=dracula" height="190" />
+    <img href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-fawn-three.vercel.app?user=junior010101&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" height="190"/>
   </picture>
 </div>
 
